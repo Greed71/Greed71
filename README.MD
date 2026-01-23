@@ -1,6 +1,5 @@
 
 <center>
-	<img src=https://github-profile-trophy.vercel.app/?username=Greed71&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub />
 	<div style="display: inline-block;">
 		<img src=https://github-readme-stats.vercel.app/api?username=Greed71&show_icons=true&count_private=true&theme=tokyonight />
 		<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Greed71&size_weight=0.5&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight />
@@ -31,9 +30,9 @@ Studio Informatica presso l'Università degli Studi di Catania.
 
 ### Other Tools:
 
-| Conda | Jupyter | Git | VirtualBox|
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VirtualBox" alt="VirtualBox" width="80" height="55"/>|
+| Conda | Jupyter | Git |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|
 
 ### OS:
 
