@@ -1,47 +1,70 @@
+<center>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greed71&theme=github_dark" />
+</center>
+
 # Mariano Longo
 
-Backend and Frontend Engineer focused on real-time web applications, scalable systems, and modern web architectures.
+Frontend and Backend Engineer focused on real-time web applications, scalable systems, and modern web architectures.
 
-I work mainly with Next.js, React, Node.js, Java, PostgreSQL, WebSockets, and WebRTC, building applications that prioritize performance, reliability, and clean architecture.
+I work mainly with Next.js, React, TypeScript, Node.js, PostgreSQL, WebSockets, and WebRTC, building applications designed around performance, reliability, and maintainability.
 
-Currently developing DiceFall, a real-time virtual tabletop platform designed around synchronized multi-user interactions and low-latency communication.
+Currently developing DiceFall, a real-time virtual tabletop platform centered on synchronized multi-user interactions and low-latency communication.
 
-## What I work on
+---
 
-- Real-time systems with WebSockets
-- Scalable frontend architectures with Next.js
-- Backend APIs and relational database design
-- WebRTC signaling and peer-to-peer communication
-- Full-stack applications with production-oriented architecture
+## Working On 🚀
+
+- DiceFall
+- Real-time systems
+- WebSockets & WebRTC
+- Scalable frontend architectures
+- Production-oriented full-stack applications
+
+---
 
 ## Featured Projects
 
-### DiceFall
-Real-time tabletop RPG platform built with Next.js, WebSockets, and WebRTC.
+### 🎲 DiceFall
+Real-time tabletop RPG platform built with Next.js App Router, TypeScript, WebSockets, and WebRTC.
 
-### node-ws-rooms
-WebSocket room server with persistent chat, reconnection handling, and heartbeat system.
-Load tested with 500 concurrent users and sub-250ms latency.
+### ⚡ node-ws-rooms
+WebSocket room server with persistent chat, reconnection handling, heartbeat system, and load testing up to 500 concurrent users.
 
-### Minesweeper
-Full-stack application with Spring Boot backend, JWT authentication, PostgreSQL, Docker deployment, and tested game logic.
+### 🧩 Minesweeper
+Full-stack application with Spring Boot backend, JWT authentication, PostgreSQL, and Docker deployment.
 
-## Tech Stack
+---
 
-### Frontend
-Next.js, React, TypeScript, JavaScript, Tailwind CSS
+# Languages and Tools
 
-### Backend
-Node.js, Java, Spring Boot, REST APIs, PostgreSQL
+<div>
 
-### Real-Time
-WebSockets, WebRTC
+## Frontend
 
-### Tools
-Git, Docker, Linux, OpenAPI/Swagger
+| React | Next.js | TypeScript | JavaScript | Tailwind |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55"/> |
 
-## Contact
+## Backend
 
-- LinkedIn: https://www.linkedin.com/in/marianolongo/
-- GitHub: https://github.com/Greed71
-- Email: longo.mariano93@gmail.com
+| Node.js | Java | Spring Boot | PostgreSQL |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/> |
+
+## Real-Time & Infrastructure
+
+| WebSockets | WebRTC | Docker | Linux | Git |
+|----------|----------|----------|----------|----------|
+| <img src="https://cdn.simpleicons.org/socketdotio/white" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/webrtc/white" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> |
+
+</div>
+
+---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Greed71&style=for-the-badge&color=blue" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
