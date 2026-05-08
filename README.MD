@@ -43,7 +43,7 @@ Full-stack application with Spring Boot backend, JWT authentication, PostgreSQL,
 
 | React | Next.js | TypeScript | JavaScript | Tailwind |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> |
 
 ## Backend
 
