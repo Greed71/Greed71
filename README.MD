@@ -27,6 +27,10 @@ Currently developing DiceFall, a real-time virtual tabletop platform centered on
 ### 🎲 DiceFall
 Real-time tabletop RPG platform built with Next.js App Router, TypeScript, WebSockets, and WebRTC.
 
+### 🔐 Rotate
+Local-first desktop application built with Tauri 2, React, and Rust
+for secure API token management, vault sessions, and provider integrations.
+
 ### ⚡ node-ws-rooms
 WebSocket room server with persistent chat, reconnection handling, heartbeat system, and load testing up to 500 concurrent users.
 
